@@ -13,6 +13,7 @@ This is a personal research track memo.
 | numpy             |14k stars|
 | Gensim            |11k stars|
 | nltk               |9k stars|
+| arrow        | 6k stars|
 | numba              |5k stars|
 | Cython             |5k stars|
 | textacy            |1k stars|
