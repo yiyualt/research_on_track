@@ -20,4 +20,5 @@ This is a personal research track memo.
 | numba              |5k stars|
 | Cython             |5k stars|
 |sentences-transformers | 2.6k stars |
+|joblib| 2.1k stars |
 | textacy            |1k stars|
